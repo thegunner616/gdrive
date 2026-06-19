@@ -1,0 +1,6 @@
+token.json
+credentials.json
+*.log
+*.tar.gz
+__pycache__/
+venv/
